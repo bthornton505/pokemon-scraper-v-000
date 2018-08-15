@@ -1,1 +1,1 @@
-UPDATE pokemon 
+ALTER TABLE pokemon 
